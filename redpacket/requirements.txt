@@ -56,7 +56,7 @@ psycopg2-binary==2.8.3
 ptyprocess==0.6.0
 pycoin==0.80
 pycryptodome==3.9.0
-Pygments==2.3.1
+Pygments==2.7.4
 PyJWT==1.7.1
 pyrsistent==0.15.7
 python-bitcoinlib==0.10.1
